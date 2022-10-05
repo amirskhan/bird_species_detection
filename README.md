@@ -29,4 +29,6 @@ The evaluation.ipynb notebook contains the models evaluation results and their c
 The tensoroard.ipynb notebook contains the commands to run the tensorboard and plots of losses during training of the both the models. 
 
 ## Inference
-The inference.ipynb notebook contains the inference results and the steps to perform inference using the models. 
+The inference.ipynb notebook contains the inference results and the steps to perform inference using the models. Screenshot of some inference results are given below.
+![Screenshot_4](https://user-images.githubusercontent.com/30217266/194104228-27c132d4-f33a-4980-b389-75ff718b0aa0.png)
+
