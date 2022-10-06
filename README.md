@@ -3,7 +3,12 @@ This project is about detecting species of birds using Convolutional Neural Netw
 
 For both the models I checked the evaluation metrics and choose the better model for deployment and inferencing.
 
-The whole project is distributed into 5 juyter notebooks, they are preprocessing.ipynb, training.ipynb, evluation.ipunb, tensorboard.ipynb, inference.ipynb. Please refere to the notebooks for the detail of the project. 
+The whole project is distributed into 5 juyter notebooks, they are preprocessing.ipynb, training.ipynb, evluation.ipunb, tensorboard.ipynb, inference.ipynb. Please refere to the notebooks for more details. The notebooks should be followed in the following order.
+1. preprocessing.ipynb
+2. training.ipynb
+3. evluation.ipynb
+4. tensorboard.ipynb
+5. inference.ipynb
 
 ## Installation
 To run the jupyter notebooks and code files of this repository, TensorFlow object detection API ia required. Please follow the official documentation to install it, the link is given below. 
