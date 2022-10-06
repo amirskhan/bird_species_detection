@@ -3,7 +3,7 @@ This project is about detecting species of birds using Convolutional Neural Netw
 
 For both the models I checked the evaluation metrics and choose the better model for deployment and inferencing.
 
-The whole project is distributed into 5 juyter notebooks, they are preprocessing.ipynb, training.ipynb, evluation.ipunb, tensorboard.ipynb, inference.ipynb. Please refere to the notebooks for more details. The notebooks should be followed in the following order.
+The whole project is distributed into 5 juyter notebooks, they are preprocessing.ipynb, training.ipynb, evluation.ipynb, tensorboard.ipynb, inference.ipynb. Please refere to the notebooks for more details. The notebooks should be followed in the following order.
 1. preprocessing.ipynb
 2. training.ipynb
 3. evluation.ipynb
